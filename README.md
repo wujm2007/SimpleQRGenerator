@@ -1,1 +1,3 @@
-# SimpleQRGenerator
+# A Simple QRCode Generator
+
+打算写个chrome插件，等有空再说吧……
