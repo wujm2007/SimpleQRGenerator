@@ -5,13 +5,17 @@
 - [下载](http://pan.baidu.com/s/1nvamIxV)
 
 
-- 拖动![drag](drag.png)
+- 拖动
+
+![drag](drag.png)
 
 
-- 确认![confirm](confirm.png)
+- 确认
+
+![confirm](confirm.png)
 
 
-- enjoy!
+- Enjoy!
 
 
 
