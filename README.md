@@ -2,7 +2,7 @@
 
 ### 如何运行?
 
-- [下载](http://pan.baidu.com/s/1nvamIxV)
+- [下载](https://github.com/wujm2007/SimpleQRGenerator/releases)
 
 
 - 拖动
